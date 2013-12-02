@@ -11,8 +11,8 @@
 ### Instalação
 1. Clone o projeto através da URL <https://github.com/thiagogsr/chatstats.git>
 1. Entre na pasta charstats
-1. Instale a gem [Sinatra](http://sinatrarb.com) através do comando `gem install sinatra`
-1. Instale a gem [JSON](http://rubygems.org/gems/json) através do comando `gem install json`
+1. Instale a gem [Bundler](http://bundler.io) através do comando `gem install bundler`
+1. Instale as gems através do comando `bundle install`
 1. Inicie a aplicação com o comando `ruby app.rb`
 
 ### Extra
