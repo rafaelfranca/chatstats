@@ -21,10 +21,10 @@
 ### Como usar
 * Faça backup das mensagens pelo aplicativo e salve em um arquivo .txt (ex: familia.txt) na pasta chatstats
 
-| | WhatsApp | BBM |
-| - | - | - |
-| | ![Whastapp](https://photos-5.dropbox.com/t/0/AADxJ9JXHOIoRSbKJYEvAh8sZoPbXvdYyMs9oHUwRKPpsw/12/26720545/jpeg/1024x768/3/1385949600/0/2/whatsapp.jpg/2o2eEaTgcBOSYh0ZgdjGXfU54Nq4RIOKSbw8ZHx0MjE) | ![BBM](https://photos-2.dropbox.com/t/0/AAD_0-6m5o0DFwSlYAwu4BtmpmR8gNIimyoOlHXIUXE25g/12/26720545/jpeg/1024x768/3/1385949600/0/2/bbm.jpg/tDqXUuf8VZRetUzGw9QqfRyFzPrF3e6Jcuh-iGPULqM) |
-| **Formato** | dd/mm/yy hh:mm: Usuário: Mensagem | Usuário: Mensagem |
+&nbsp; | WhatsApp | BBM
+------------ | ------------- | ------------
+&nbsp; | ![Whastapp](https://photos-5.dropbox.com/t/0/AADxJ9JXHOIoRSbKJYEvAh8sZoPbXvdYyMs9oHUwRKPpsw/12/26720545/jpeg/1024x768/3/1385949600/0/2/whatsapp.jpg/2o2eEaTgcBOSYh0ZgdjGXfU54Nq4RIOKSbw8ZHx0MjE) | ![BBM](https://photos-2.dropbox.com/t/0/AAD_0-6m5o0DFwSlYAwu4BtmpmR8gNIimyoOlHXIUXE25g/12/26720545/jpeg/1024x768/3/1385949600/0/2/bbm.jpg/tDqXUuf8VZRetUzGw9QqfRyFzPrF3e6Jcuh-iGPULqM)
+**Formato** | dd/mm/yy hh:mm: Usuário: Mensagem | Usuário: Mensagem
 
 * Abra no *browser* a url http://localhost:4567/**APP**/**ARQUIVO**.txt (substitua **APP** por **whatsapp** ou **bbm** e **ARQUIVO** pelo nome do arquivo salvo. ex: http://localhost:4567/whatsapp/familia.txt)
 
